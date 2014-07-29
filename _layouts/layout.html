@@ -59,6 +59,13 @@
       <li>
         <a href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">Home</a>
       </li>
+      <li>
+        <a href="http://about.me/abhinavk" target="_blank">About.me</a>
+      </li>
+      {% if site.github_url %}<li><a href="{{ site.github_url }}">GitHub</a></li>{% endif %}
+      <li><a href="http://twitter.com/{{ site.twitter }}">Twitter</a></li>
+      {% if site.google_plus_url %}<li><a href="{{ site.google_plus_url }}">Google+</a></li>{% endif %}
+      {% if site.linkedin_url %}<li><a href="{{ site.linkedin_url }}">LinkedIn</a></li>{% endif %}
       {% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}{% if p.title != 'index' %}<li><a {% if p.url == page.url %}class="active"{% endif %} href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ p.url }}">{{ p.title }}</a></li>{% endif %}{% endif %}{% endfor %}{% endfor %}
       </ul>
     </nav>
