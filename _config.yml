@@ -9,7 +9,7 @@ rdiscount:
 # User Options
 name: Abhinav Kumar
 baseurl: # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'IAmA. Geek. Programmer. Tolkienian. Redditor. Open-source lover. Suffering from OCD and atheism.'
+description: 'IAmA. Geek. Programmer. Tolkienian. Open-source lover. Suffering from OCD and atheism.'
 email: me@abhinavk.me
 twitter: abhinavkmr
 icon_url: /images/meawe.jpg
@@ -41,7 +41,7 @@ flickr_url:
 instagram_url: 
 vimeo_url: 
 facebook_url: https://www.facebook.com/abhinavkmr
-google_plus_url: http://plus.google.com/++AbhinavKumar1
+google_plus_url: http://plus.google.com/+AbhinavKumar1
 pinterest_url: 
 tumblr_url: 
 linkedin_url: http://in.linkedin.com/in/abhinavkmr/
