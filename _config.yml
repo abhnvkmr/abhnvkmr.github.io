@@ -11,15 +11,15 @@ google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: true
-show_post_footers:  true
+show_related_posts: false
+show_post_footers:  false
 
 # Social icons
 show_social_icons: true
 github_username: abhinavk
 twitter_username: abhinavkmr
 google_plus_id: +AbhinavKumar1
-linkedin_username: abhinavkumarin
+linkedin_username: 
 bitcoin_url:
 paypal_url:
 flattr_button:
