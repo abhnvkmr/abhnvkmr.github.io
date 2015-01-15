@@ -1,9 +1,10 @@
 ---
-title: 'I&#8217;m an atheist, but I&#8217;m not'
+title: 'I&#8217;m an atheist'
 layout: post
 tags: [atheism]
 share: true
 comments: true
+summary: ', but I&#8217;m not'
 ---
 I'm an atheist, but I'm not an atheist...
 
