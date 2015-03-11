@@ -7,14 +7,14 @@ baseurl:     ""
 url:         "http://abhinavk.me"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-32755544-2
 
 # Optional features
-animated:           true
+animated:           false
 show_related_posts: false
 show_post_footers:  false
 
-disqus_shortname: abhinavkme
+disqus_shortname:
 
 # Social icons
 show_social_icons: true
@@ -44,6 +44,6 @@ markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /:year/:month/:title/
-paginate:     5
+paginate:     6
 sass:
   compressed: true
