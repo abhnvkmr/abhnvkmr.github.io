@@ -1,9 +1,10 @@
 ---
-title: Pi Woes 1: Getting HTTP 403 Forbidden error with urllib.request
+title: Pi Woes 1 - Getting HTTP 403 Forbidden error with urllib.request
 layout: post
 tags: [programming, python, raspberry pi]
 comments: true
 share: true
+summary: 'Sensors is not really my forte'
 ---
 I was trying to send a set of sensor inputs to one of my droplets hosted on Digital Ocean. I had a rolled out a simple node.js/Ghost image which I have been using to serve a few ExpressJS applications alongside. While I was using urllib.request module of the Python to send the data to the express.js application which is behind nginx.
 
