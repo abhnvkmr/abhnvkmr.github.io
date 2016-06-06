@@ -1,49 +1,5 @@
-# Site settings
-title:       Abhinav Kumar
-email:       me@abhinavk.me
-author:      Abhinav Kumar
-description: ""
-baseurl:     ""
-url:         "http://abhnv.com"
-
-# Google analytics
-google_analytics: UA-32755544-2
-
-# Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
-
-disqus_shortname:
-
-# Social icons
-show_social_icons: true
-github_username: abhinavk
-twitter_username: abhnvkmr
-google_plus_id: +AbhinavKumar1
-linkedin_username: abhnvkmr
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: true
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
-share_googleplus: true
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: true
-share_stumbleupon: false
-
-# Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    /:year/:month/:title/
-paginate:     6
-sass:
-  compressed: true
+# General Jekyll Config
+highlighter: pygments
+url: http://abhnv.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]

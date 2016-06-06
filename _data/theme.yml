@@ -1,0 +1,31 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: abhinavk
+  bitbucket: abhinavkmr
+  hacker_news: abhinavk
+  #stackexchange: 
+  #stackoverflow: 
+  twitter: abhnvkmr
+  facebook: abhnvkmr
+  #tumblr: 
+  linkedin: abhinavkmr
+  #gplus: 
+
+# "Hi, I'm _______"
+name: Abhinav Kumar
+email: abhinav@outlook.com
+tagline: "I write. Many things."
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-32755544-2
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true
