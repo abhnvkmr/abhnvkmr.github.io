@@ -4,6 +4,7 @@ layout: post
 tags: [misc]
 comments: true
 share: true
+categories: blogpost
 ---
 Science does in fact have an answer to the oft-repeated conundrum, *Which came first, the chicken or the egg*? This of course means that you should never let anyone offer this as a riddle ever again without correcting them.
 

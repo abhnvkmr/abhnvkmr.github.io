@@ -4,6 +4,7 @@ layout: post
 tags: [technology]
 share: true
 comments: true
+categories: blogpost
 summary: 'How to download Windows 10 ISO without Media Creation Tool'
 ---
 Microsoft released Windows 10 Fall update this week with a bunch of new minor features and bugfixes. It is running very good on my system. Reliable and Fast. Surprisingly the version is called Windows 10 version 1511 (not Windows 10.1 or 10 Update 1). The number represents 20**15** November (**11**). This is nice way of versioning operating systems as it tell you when was the update released. (The same way Canonical does it).

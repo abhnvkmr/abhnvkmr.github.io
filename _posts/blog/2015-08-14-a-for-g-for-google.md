@@ -4,6 +4,7 @@ layout: post
 tags: [technology]
 share: true
 comments: true
+categories: blogpost
 summary: 'I am waiting for the day when they will have all 26 letters used'
 ---
 In one of the most important tech news in this decade, Google restructured itself into a conglomerate. The name is Alphabet. If you are getting the news from this article, I won’t blame you for thinking that it’s kind of a big joke from Page and Brin. I was pillow surfing when the story popped up into my HN feed and it was hard to believe. A lot of redditors admitted to checking the date after reading the news as if it was another April Fools joke.

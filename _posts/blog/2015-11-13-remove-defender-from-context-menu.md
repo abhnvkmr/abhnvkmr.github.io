@@ -4,6 +4,7 @@ layout: post
 tags: [technology]
 share: true
 comments: true
+categories: blogpost
 summary: 'How to download Windows 10 ISO without Media Creation Tool'
 ---
 Microsoft released Windows 10 Fall update this week with. It is running very good on my system. But one pet-peeve I have with the update is that it adds a "Scan with Windows Defender" command in context menus of files and folders. Even if you use a third-party antvirus installed and have Defender disabled. Although one can ignore it and move on with their life, my OCD gets...you know...

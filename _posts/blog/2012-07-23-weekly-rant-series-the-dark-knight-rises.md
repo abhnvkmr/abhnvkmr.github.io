@@ -4,6 +4,7 @@ layout: post
 tags: [movies]
 comments: true
 share: true
+categories: blogpost
 ---
 The problem with batman these days is that every lame ass is trying to see it and understand it just because it is considered cool if we watch Nolan&#8217;s batman. Nolan did a clever trick in *The Dark Knight* by making a silly caped super hero movie into something slightly much deeper, the critics liked it and the common audience who grows up on ADD-infested action movies joined the bandwagon just as to prove that they too can think and like intelligent cinema.
 

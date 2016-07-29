@@ -4,6 +4,7 @@ layout: post
 tags: [technology, facebook, twitter]
 comments: true
 share: true
+categories: blogpost
 ---
 I'll never understand, why people use Twitter. If you have a Facebook profile/page, then you pretty much have a Twitter-like mechanism commonly known as the “Status Update”.
 

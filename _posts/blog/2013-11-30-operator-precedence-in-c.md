@@ -5,6 +5,7 @@ layout: post
 tags: [programming]
 comments: true
 share: true
+categories: blogpost
 ---
 Operator precedence and associativity in C/C++ is not too much unintuitive but&#8230;  
 <!--more-->
