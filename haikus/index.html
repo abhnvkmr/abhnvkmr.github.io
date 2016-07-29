@@ -7,10 +7,10 @@ title: Blog Posts
   <h2><i class="fa fa-bookmark"></i> Recent Posts</h2>
   <ul id="blog-posts" class="posts">
     {% for post in site.posts limit:15 %}
-      {% if post.categories contains 'blogpost' %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span></li>
-        <li>&nbsp;</li>
-      {% endif %}
+    {% if post.categories contains 'haikus' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span></li>
+      <li>&nbsp;</li>
+    {% endif %}
     {% endfor %}
   </ul>
   <p><a href="./archive/">View all</a></p>

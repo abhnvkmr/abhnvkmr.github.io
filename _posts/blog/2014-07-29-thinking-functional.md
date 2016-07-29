@@ -5,7 +5,7 @@ tags: [programming]
 share: true
 comments: true
 summary: 'My foray into functional programming'
-categories: blogpost
+categories: blog
 ---
 Last time I checked the date, I got to know that my summer vacations are soon ending. I wanted to do something different in the remaining time. So it came to my mind that why shouldn't I delve into functional territory? All the languages I have learnt so far focused on imperative/object-oriented programming paradigm so this idea seemed to be good enough. But the problem I faced was choosing one. There are a literally a lot of them; mostly categorized into
 

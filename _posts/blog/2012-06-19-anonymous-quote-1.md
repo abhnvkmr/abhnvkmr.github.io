@@ -4,6 +4,6 @@ layout: post
 tags: [philosophy, quote]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 Class is whispered, never screamed.

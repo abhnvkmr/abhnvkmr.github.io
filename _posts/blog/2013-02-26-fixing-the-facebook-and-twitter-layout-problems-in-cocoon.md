@@ -4,7 +4,7 @@ layout: post
 tags: [technology, facebook, twitter]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 All of my comrades who use Cocoon to evade campus firewalls are pretty content with the service except one thing: the ads. They usually block all the ads to get a web experience similar to the free open web. Let me be clear about ads&#8230;I&#8217;m not against them as they are part of the Cocoon&#8217;s business model and other free web services, but  their current implementation for the top-banner ads are too intrusive and have a major side-effect. They push the content far down so that the Facebook&#8217;s chat sidebar&#8217;s command palette is not visible at all. And if you&#8217;re blocking ads the top bar may be stuck floating in the middle  So here is a tiny CSS stylesheet to fix this. (I assume that you are using an advanced adblocker, preferably Firefox&#8217;s AdBlock Plus)
 

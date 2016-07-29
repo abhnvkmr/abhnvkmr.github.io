@@ -4,7 +4,7 @@ layout: post
 tags: [programming]
 share: true
 comments: true
-categories: blogpost
+categories: blog
 ---
 I learnt Python in the first year of my college and since then it has become my go-to language for everything. Whenever I have to try out any algorithms or anything else, Python is always my first choice. People sometimes wonder why do I prefer Python over C++/Java so much.
 

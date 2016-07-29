@@ -5,7 +5,7 @@ tags: [atheism]
 share: true
 comments: true
 summary: ', but I&#8217;m not'
-categories: blogpost
+categories: blog
 ---
 I'm an atheist, but I'm not an atheist...
 

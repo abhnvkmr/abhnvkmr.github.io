@@ -4,7 +4,7 @@ layout: post
 tags: [programming, sublime text]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 I love Sublime Text. Unless I really need to use IDE-exclusive features, ST is my go-to choice to jotting down letters and symbols. Although text rendering on Windows looked fine for me, I discovered a way to make it even better.
 

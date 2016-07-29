@@ -4,7 +4,7 @@ layout: post
 tags: [technology]
 share: true
 comments: true
-categories: blogpost
+categories: blog
 ---
 *Disclaimer: This is just a summarization. Do please read the actual license before deciding on one for your own projects.*
 

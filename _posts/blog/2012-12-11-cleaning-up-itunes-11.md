@@ -4,7 +4,7 @@ layout: post
 tags: [technology, apple]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 iTunes, especially on Windows, has never been a joy to use. Of course, there are a lot of alternative iPod/iPhone/iPad sync softwares out there, but only iTunes offer the full-featured functionality for Apple-devices management. Although I regularly used iTunes when I had my MacBook but on Windows I had kept it out like a virus. But upon getting an iPad, I had to install it but I still only fire it up when I have to perform a sync. The the problem is that even if you don&#8217;t use it often, it runs a few system-level processes and services on startup.
 

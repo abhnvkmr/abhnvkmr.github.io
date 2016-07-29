@@ -4,7 +4,7 @@ layout: post
 tags: [programming, sublime text]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 I have been using Sublime Text 2 as my primary text editor. It&#8217;s not as much bloated as Visual Studio or Eclipse and it&#8217;s not as much hard to learn as Vim/Emacs (Sorry folks! I don&#8217;t have that much time to spare). But it&#8217;s highly extensible, customizable and light-weight to use, so this is the program I&#8217;ve been firing since 2012. I&#8217;ve been using Code::Blocks for C++ dev and NetBeans for Java so I needed to rewrite the ST2 build systems for C/C++ and Java. It enabled me to use both the editors without altering my workflow and duplicate installation of compilers.
 

@@ -4,7 +4,7 @@ layout: post
 tags: [technology]
 comments: true
 share: true
-categories: blogpost
+categories: blog
 ---
 Apart from a few lucky ones (including me), people are not being able to turn off Safety mode on YouTube. So here&#8230;how to do it. (Yeah! It&#8217;s really that simple)
 
