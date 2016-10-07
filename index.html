@@ -1,17 +1,20 @@
 ---
 layout: default
-title: Blog Posts
+title: Home
 ---
 
 <div id="home">
-  <h2><i class="fa fa-bookmark"></i> Recent Posts</h2>
+  <h2>Hi! Welcome to my website.</h2>
+  <p>I am Abhinav Kumar. I have just completed college and looking to join a company which will provide me ample opportunities to enjoy my work and grow my skills.</p>
+  <hr>
+  <h2><i class="fa fa-bookmark"></i> Blogposts</h2>
   <ul id="blog-posts" class="posts">
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:5 %}
       {% if post.categories contains 'blog' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span></li>
         <li>&nbsp;</li>
       {% endif %}
     {% endfor %}
   </ul>
-  <p><a href="./archive/">View all</a></p>
+  <p><a href="./blog/">View all</a></p>
 </div>
