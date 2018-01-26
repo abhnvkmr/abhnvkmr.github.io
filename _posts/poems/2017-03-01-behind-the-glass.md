@@ -3,7 +3,7 @@ title: 'Behind the Glass'
 layout: post
 comments: true
 share: true
-categories: stories
+categories: poem
 ---
 She looks around the table trying to catch his eye.
 He’s occupied with himself thinking of an alibi.
