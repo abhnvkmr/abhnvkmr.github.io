@@ -8,7 +8,7 @@ title: Home
   <p>I am a software developer currently working and living in Bangalore, India.</p>
   <p><a href="https://www.dropbox.com/s/gx94zxx90glsn84/CV%20-%20Jan%202018.pdf?dl=0">Resume</a> | <a href="https://angel.co/abhnv">Angel.co</a> | <a href="https://www.linkedin.com/in/abhinavkmr">LinkedIn</a></p>
   <hr>
-  <h2><i class="fa fa-bookmark"></i> Recent posts</h2>
+  <h2>Recent posts</h2>
   <ul id="blog-posts" class="posts">
     {% for post in site.posts limit:10 %}
         <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
