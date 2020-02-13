@@ -1,10 +1,10 @@
 ---
 title: 'Glowing screen'
-layout: post
+layout: haiku
 comments: true
 share: true
 categories: haiku
 ---
-Birds chirp and cow moos.  
-I ignore them staring at  
+Birds chirp and cow moos.
+I ignore them staring at
 the glowing screen.

@@ -1,10 +1,10 @@
 ---
 title: 'Slipped moment'
-layout: post
+layout: haiku
 comments: true
 share: true
 categories: haiku
 ---
-Awaiting the moment,  
-I honed all my senses; But  
+Awaiting the moment,
+I honed all my senses; But
 slipped just before.
